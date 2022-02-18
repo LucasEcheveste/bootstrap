@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding: 5rem;
+    margin: 2rem;
+    display: flex;
+}
+
+body{
+    background-color: rgba(209,183,162,255);
+}
+
+.section{
+    height: 4 rem;
+    width: 4 rem;
+}
+
+.imgs{
+    width: 40vh;
+    height: 40vh;
+}
+
+.imgs-car{
+    height: 40vh;
+    object-fit: cover;
+}
+
+
+
+
+@media only screen and (min-width: 320px) {
+
+
+}
+
+@media only screen and (min-width: 480px) {
+
+
+}
+@media only screen and (min-width: 576px) {
+        
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    
+}
+
+@media only screen and (min-width: 991px) {
+            
+
+}
+
+@media only screen and (min-width: 1200px) {
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
